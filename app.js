@@ -1,4 +1,5 @@
 
-import { disemvowel} from "./Solutions/7kyu.js";
+import { highAndLow } from "./Solutions/7kyu.js";
 
-console.log(disemvowel("This website is for losers LOL!"));
+console.log(highAndLow("1 2 -3 4 5"));
+
