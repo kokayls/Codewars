@@ -1,6 +1,4 @@
-
 import { isIsogram } from "./Solutions/7kyu.js";
+import { solution } from "./Solutions/6kyu.js";
 
-console.log(isIsogram("moOse"));
-
- 
+console.log(solution(10));
