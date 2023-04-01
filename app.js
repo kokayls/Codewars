@@ -1,4 +1,4 @@
 import { isIsogram } from "./Solutions/7kyu.js";
-import { solution } from "./Solutions/6kyu.js";
+import { digitalRoot } from "./Solutions/6kyu.js";
 
-console.log(solution(10));
+console.log(digitalRoot(1));
